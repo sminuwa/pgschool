@@ -1,0 +1,8 @@
+{
+  "name": "pgschool",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "3afc193e"
+}
